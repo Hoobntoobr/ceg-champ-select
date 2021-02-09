@@ -1,0 +1,1 @@
+A simple vanilla app to randomize champions from League of Legends, and select any number of them that you wish
